@@ -14,3 +14,8 @@ body {
   padding: 20px; /*내부 여백*/
   margin-bottom: 10px;
 }
+
+.button-container {
+  display: flex;
+  justify-content: space-around;
+}
